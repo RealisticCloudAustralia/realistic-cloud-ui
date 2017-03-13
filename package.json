@@ -8,6 +8,7 @@
   "author": "Realistic Cloud Solutions",
   "license": "MIT",
   "dependencies": {
+    "http-server": "^0.6.1",  
     "bower": "^1.7.7"
   },
   "engines": {
