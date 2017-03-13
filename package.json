@@ -8,7 +8,7 @@
   "author": "Realistic Cloud Solutions",
   "license": "MIT",
   "dependencies": {
-   
+    "bower": "^1.7.7"
   },
   "engines": {
     "node": "6.9.2",
